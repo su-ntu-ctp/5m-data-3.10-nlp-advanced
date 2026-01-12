@@ -1,5 +1,9 @@
 # 3.10 Natural Language Processing Advanced
 
+## Lesson Overview
+
+![Lesson Overview](assets/infographic-3.10.png)
+
 ## Dependencies
 
 Refer to the following markdown file for the respective sections of the class:
