@@ -16,20 +16,11 @@ Refer to the following markdown file for the respective sections of the class:
 
 ## Lesson Objectives
 
-Learners will understand:
+* Train a **Recurrent Neural Network (RNN)** for language modeling, demonstrating an understanding of how deep learning architectures process sequential data complexities that traditional machine learning models cannot handle.
 
-- Deep Learning for NLP
-- Common NLP tasks
-- Recurrent Neural Networks (RNN)
-- Attention Mechanism
-- Transformers
+* Fine-tune a pre-trained **BERT model** to perform downstream tasks such as sentiment analysis and Named Entity Recognition (NER), utilizing the model's bidirectional attention mechanism to derive deep contextual meaning from text.
 
-Learners will be able to:
-
-- Train an RNN for language modeling
-- Fine-tune a pre-trained BERT model for sentiment analysis
-- Use a pre-trained BERT model for NER
-- Use a pre-trained GPT-2 model for text generation
+* Utilize a pre-trained GPT model for text generation, distinguishing its unidirectional transformer architecture from BERT to effectively apply it in generative applications.
 
 ## Lesson Plan
 
